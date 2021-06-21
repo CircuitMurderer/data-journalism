@@ -18,6 +18,8 @@
 > `Subject [Target NP Once] Trigger [Target NP Once] Object [Time]`
 > 
 > 主干是“主谓宾”结构。若这句话中包含的目标 NP 不在主语或宾语中出现过（即为修饰语或补语等），则按照句子的自然顺序在主谓或动宾之间加入。最后，如果有相关的时间词组，则在句子最后加上。
+> 
+> *使用的module：* `LTP 4.1.4`
 
 ---
 
