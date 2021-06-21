@@ -1,7 +1,7 @@
 """
 DATA JOURNALISM: Discourse analysis project - Task II
 @Python 3.8.2, via LTP 4.1.4
-Author: Zhao Yuqi
+Author: CircuitMurderer
 Date: 2021/6/19
 """
 import ltp
